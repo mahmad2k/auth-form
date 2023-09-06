@@ -22,8 +22,8 @@
 
 ### Screenshots
 
-![Sinup Screen](.\docs\images\signup-screen.png)
+![Sinup Screen](./docs/images/signup-screen.png)
 
-![Login Screen with verify](.\docs\images\login-screen-with-verify.png)
+![Login Screen with verify](./docs/images/login-screen-with-verify.png)
 
-![Authenticated Screen](.\docs\images\authenticated-screen.png)
+![Authenticated Screen](./docs/images/authenticated-screen.png)
